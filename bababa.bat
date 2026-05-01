@@ -1,0 +1,1 @@
+keryx-miner.exe -s 103.82.193.141:22110 --mining-address keryx:qzxrqzkj5q2zsv09zvakacpdhsr2lzul4aahxfpxlk9vrn59mtp7uw52t7wxv --cuda-device 0
